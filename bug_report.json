@@ -1,0 +1,15 @@
+{
+	"Title": "Incorrect error message is displayed after adding invalid password",
+	"Step_1": "Click Login icon",
+	"Step_2": "Enter valid login and invalid password",
+	"Step_3": "Click 'Login' button",
+	"Actual Result": "'You enter invalid email' error message is displayed",
+	"Expected Result": "'You enter incorrect email and/or password' message should be displayed"
+	"Priority": "low",
+	"Attachment": "screen"
+
+
+
+
+
+}
